@@ -9,7 +9,7 @@ Sends Dahua Intercom events to the MQTT Broker
 The installation of this add-on is straightforward and easy to do.
 
 1. Navigate in your Home Assistant frontend to **Hass.io** -> **Add-on Store**.
-2. Add a new repository by URL `https://github.com/elad-bar/Hassio-addons`
+2. Add a new repository by URL `https://github.com/thewolfman56/Hassio-addons-1`
 3. Find the "DahuaVTO2MQTT" add-on and click it.
 4. Click on the "INSTALL" button.
 
